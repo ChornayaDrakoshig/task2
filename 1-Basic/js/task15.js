@@ -6,5 +6,4 @@ if (answ != null){
     else {
         alert(13-answ);
     }
-    alert(str);
 }
