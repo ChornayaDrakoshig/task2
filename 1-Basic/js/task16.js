@@ -1,7 +1,7 @@
 var num1 = prompt("Write the number 1", '');
 var num2 = prompt("Write the number 2", '');
 if (num1 != null && num2!=null){
-    if (if num1 === num2) {
+    if (num1 === num2) {
         alert(num1*6);
     } 
     else {
