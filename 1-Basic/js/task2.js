@@ -1,3 +1,0 @@
-function printThePage(){
-window.print();
-}
